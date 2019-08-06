@@ -1,20 +1,31 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work.
-img_path: images/about.jpg
+subtitle: Breve pagina per descrivere chi sono e cosa faccio.
+img_path: /images/img_7690_small.jpg
 menus:
   main:
     title: About
     weight: 4
 template: page
 ---
+Sono **Stefano Valentini**, laureato in ingegneria informatica nel 2009 presso l'_Università Degli Studi Di Roma "La Sapienza"_. Appena finita l'università ho subito trovato lavoro in un'azienda, ma per poter dare libero sfogo alla mia creatività e alla mia sete di conoscenza mi impegno costantemente per studiare nuove tecnologie nell'ambito informatico ed anche nell'ambito internet.
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+Sono appassionato di qualunque gadget che contiene tecnologia e sto approfondendo la fotografia, un ambito che avevo tralasciato fino a questo momento ma che secondo me ha delle incredibili potenzialità.
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
 
-*Thank You for reading!*
+
+Altro ambito su cui ero carente e su cui ho cominciato a dedicarmi da poco è la lettura (tralasciata per un po' di tempo vista l'enorme mole di libri letti durante i miei studi): per il momento riesco a leggere soltanto libri tecnici o biografie di persone brillanti nell'abito della tecnologia, spero di riuscire ad ampliare i miei orizzonti.
+
+
+
+Alcuni dei miei lavori li trovate nel mio sito personale:
+
+
+
+<https://stefanovalentini.life>
+
+
+
+_Grazie per contribuire alla mia crescita!_
