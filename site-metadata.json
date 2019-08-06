@@ -11,11 +11,11 @@
     "has_social": true
   },
   "footer": {
-    "content": "&copy; Stackbit-Fresh. All rights reserved.",
+    "content": "&copy; Stefano Valentini. All rights reserved.",
     "links": [
       {
-        "text": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
+        "text": "Author",
+        "url": "https://stefanovalentini.life",
         "new_window": true
       }
     ]
