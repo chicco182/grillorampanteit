@@ -6,8 +6,8 @@ subtitle: >-
   Quarta puntata, i nuovi iPhone, un’ottima soluzione hosting, uno dei manga del
   momento e come tenere casa pulita spendendo poco
 date: 2019-07-22T10:16:01.861Z
-thumb_img_path: /images/iphone11-fan-2.jpg
-content_img_path: /images/iphone11-fan-2.jpg
+thumb_img_path: /images/iphone11-fan-2-1-.jpg
+content_img_path: /images/iphone11-fan-2-1-.jpg
 template: post
 ---
 <iframe src="https://widget.spreaker.com/player?episode_id=18606024&theme=light&playlist=false&playlist-continuous=false&autoplay=false&live-autoplay=false&chapters-image=true&episode_image_position=right&hide-logo=false&hide-likes=false&hide-comments=false&hide-sharing=false&hide-download=true" width="100%" height="200px" frameborder="0"></iframe>
