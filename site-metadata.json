@@ -5,7 +5,7 @@
   "header": {
     "title": "Grillo Rampante",
     "tagline": "grillo rampante",
-    "profile_img": "images/avatar.png",
+    "profile_img": "/images/600x600bb.jpg",
     "bg": "dark",
     "has_nav": true,
     "has_social": true
